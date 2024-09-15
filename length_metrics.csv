@@ -19,25 +19,25 @@ BERTScore precision;0.6640794277191162
 BERTScore recall;0.6934779286384583
 BERTScore F1;0.6779354214668274
 F1 token-wise;0.23332582597593293
-F1 token-wise new;0.23706236897034594
+F1 token-wise new;0.22824542357323166
 tokens per text mean;352.3333333333333
-tokens per text mean new;319.3333333333333
+tokens per text mean new;288.6666666666667
 tokens per text quantile 25;216.0
-tokens per text quantile 25 new;199.5
+tokens per text quantile 25 new;180.0
 tokens per text quantile 50;369.0
-tokens per text quantile 50 new;335.0
+tokens per text quantile 50 new;307.0
 tokens per text quantile 75;497.0
-tokens per text quantile 75 new;447.0
+tokens per text quantile 75 new;406.5
 tokens per symbol;0.3087692641412958
-tokens per symbol new;0.2894595943365459
+tokens per symbol new;0.2553754420444804
 tokens per word;2.1894439695924635
-tokens per word new;2.04367787742582
+tokens per word new;1.8094461524941068
 out of vocabulary words percent ref;1.0
 out of vocabulary words percent pred;1.0
-vocabulary intersection;0.9149591442115769
+vocabulary intersection;0.9001762100798403
 average root preservation;0.006607929515418502
 average root preservation new;0.006607929515418502
 mean fertility;1.6323559991682264
-mean fertility new;1.5279448256740833
+mean fertility new;1.349410133776946
 mean perplexity;2.505963762601217
-mean perplexity new;15.265525817871094
+mean perplexity new;162.41460927327475
