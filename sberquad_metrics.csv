@@ -1,43 +1,43 @@
 metric;value
 dataset;SberQuAD
 model;meta-llama/Meta-Llama-3.1-8B-Instruct
-rouge-1 recall;0.6666666666666666
-rouge-1 precision;0.27941176470588236
-rouge-1 F1;0.25555555263086427
-rouge-2 recall;0.0
-rouge-2 precision;0.0
-rouge-2 F1;0.0
-rouge-l recall;0.6666666666666666
-rouge-l precision;0.27941176470588236
-rouge-l F1;0.25555555263086427
-BLEURT;-0.1256754994392395
-errors number pred;1
-errors number ref;0
-error relation pred;0.9565217391304348
-error relation ref;1.0
-BERTScore precision;0.6479461789131165
-BERTScore recall;0.7664431929588318
-BERTScore F1;0.695339560508728
-F1 token-wise;0.259958071278826
-F1 token-wise new;0.24722222222222223
-tokens per text mean;26.5
-tokens per text mean new;20.5
-tokens per text quantile 25;15.25
-tokens per text quantile 25 new;12.25
-tokens per text quantile 50;26.5
-tokens per text quantile 50 new;20.5
-tokens per text quantile 75;37.75
-tokens per text quantile 75 new;28.75
-tokens per symbol;0.4078282828282828
-tokens per symbol new;0.36237373737373735
-tokens per word;2.4411764705882355
-tokens per word new;2.0882352941176467
+rouge-1 recall;0.6865454566799102
+rouge-1 precision;0.2755176965504593
+rouge-1 F1;0.34916698220075004
+rouge-2 recall;0.4847110420717407
+rouge-2 precision;0.18132591408223936
+rouge-2 F1;0.23323787861040227
+rouge-l recall;0.6832229784498103
+rouge-l precision;0.274420421602771
+rouge-l F1;0.34774094174525255
+BLEURT;-0.064904131322605
+errors number pred;0.3856235107227959
+errors number ref;0.6153693407466243
+error relation pred;0.9666333858748022
+error relation ref;0.8147854429198089
+BERTScore precision;0.678785502910614
+BERTScore recall;0.8079461455345154
+BERTScore F1;0.7353950142860413
+F1 token-wise;0.3543051833779457
+F1 token-wise new;0.3453756039703306
+tokens per text mean;72.24205718824464
+tokens per text mean new;63.17275615567911
+tokens per text quantile 25;18.0
+tokens per text quantile 25 new;16.0
+tokens per text quantile 50;28.0
+tokens per text quantile 50 new;24.0
+tokens per text quantile 75;48.0
+tokens per text quantile 75 new;41.0
+tokens per symbol;0.34751518487759075
+tokens per symbol new;0.30398734476164346
+tokens per word;2.632958789613538
+tokens per word new;2.297239614372622
 out of vocabulary words percent ref;1.0
 out of vocabulary words percent pred;1.0
 vocabulary intersection;0.9001762100798403
-average root preservation;0.05263157894736842
-average root preservation new;0.05263157894736842
-mean fertility;1.7318840579710146
-mean fertility new;1.471014492753623
-mean perplexity;187.34925508499146
-mean perplexity new;8597.58869934082
+average root preservation;0.016128924582590642
+average root preservation new;0.016135600461970854
+mean fertility;2.034908207443444
+mean fertility new;1.768960620615938
+mean perplexity;154.2419370333054
+mean perplexity new;12769.290369613338
