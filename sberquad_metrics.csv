@@ -1,0 +1,43 @@
+metric;value
+dataset;SberQuAD
+model;ikkiren/TokenSubstitution
+rouge-1 recall;0.4866666666666667
+rouge-1 precision;0.1279110377569941
+rouge-1 F1;0.19074703898789172
+rouge-2 recall;0.35
+rouge-2 precision;0.07777777777777778
+rouge-2 F1;0.12032467419622282
+rouge-l recall;0.4866666666666667
+rouge-l precision;0.1279110377569941
+rouge-l F1;0.19074703898789172
+BLEURT;-0.28111985931172967
+errors number pred;0.5
+errors number ref;0.5
+error relation pred;0.9864604155241432
+error relation ref;0.7833333333333333
+BERTScore precision;0.5572004318237305
+BERTScore recall;0.7455865740776062
+BERTScore F1;0.6307368874549866
+F1 token-wise;0.20164177347041795
+F1 token-wise new;0.20164177347041795
+tokens per text mean;143.3
+tokens per text mean new;143.3
+tokens per text quantile 25;18.25
+tokens per text quantile 25 new;18.25
+tokens per text quantile 50;32.5
+tokens per text quantile 50 new;32.5
+tokens per text quantile 75;123.5
+tokens per text quantile 75 new;123.5
+tokens per symbol;0.27992604557692363
+tokens per symbol new;0.27992604557692363
+tokens per word;2.20884898727004
+tokens per word new;2.20884898727004
+out of vocabulary words percent ref;1.0
+out of vocabulary words percent pred;1.0
+vocabulary intersection;1.0
+average root preservation;0.004862236628849271
+average root preservation new;0.004862236628849271
+mean fertility;1.7853879836638458
+mean fertility new;1.7853879836638458
+mean perplexity;367.03695262670516
+mean perplexity new;367.03695262670516
