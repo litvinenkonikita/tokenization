@@ -10,14 +10,14 @@ rouge-2 F1;0.0
 rouge-l recall;0.0
 rouge-l precision;0.0
 rouge-l F1;0.0
-BLEURT;0.23823082447052002
+BLEURT;0.2382318526506424
 errors number pred;1
 errors number ref;0
 error relation pred;0.9961685823754789
 error relation ref;1.0
-BERTScore precision;0.22969624400138855
-BERTScore recall;0.6409366726875305
-BERTScore F1;0.3381924629211426
+BERTScore precision;0.22969600558280945
+BERTScore recall;0.6409364938735962
+BERTScore F1;0.3381921648979187
 F1 token-wise;0
 F1 token-wise new;0
 tokens per text mean;644.0
@@ -33,11 +33,11 @@ tokens per symbol new;0.1933933933933934
 tokens per word;2.476923076923077
 tokens per word new;2.476923076923077
 out of vocabulary words percent ref;1.0
-out of vocabulary words percent pred;1.0
+out of vocabulary words percent pred;0.007692307692307693
 vocabulary intersection;1.0
 average root preservation;0.0
 average root preservation new;0.0
 mean fertility;2.467432950191571
 mean fertility new;2.467432950191571
-mean perplexity;4.384605407714844
-mean perplexity new;4.384605407714844
+mean perplexity;4.391205787658691
+mean perplexity new;4.391205787658691

@@ -10,7 +10,7 @@ rouge-2 F1;0.04052684737342296
 rouge-l recall;0.11255804562891178
 rouge-l precision;0.13704128440366972
 rouge-l F1;0.12321764541222203
-BLEURT;-0.0753318617741267
+BLEURT;-0.07533196111520131
 errors number pred;1.6666666666666667
 errors number ref;0
 error relation pred;0.9624744814775996
@@ -32,12 +32,12 @@ tokens per symbol;0.26487373220182125
 tokens per symbol new;0.26487373220182125
 tokens per word;1.5771347728886091
 tokens per word new;1.5771347728886091
-out of vocabulary words percent ref;1.0
-out of vocabulary words percent pred;1.0
+out of vocabulary words percent ref;0.26976744186046514
+out of vocabulary words percent pred;0.28715814506539833
 vocabulary intersection;1.0
 average root preservation;0.0
 average root preservation new;0.0
 mean fertility;1.2449014487183967
 mean fertility new;1.2449014487183967
-mean perplexity;2.5562724669774375
-mean perplexity new;2.5562724669774375
+mean perplexity;2.556239446004232
+mean perplexity new;2.556239446004232
