@@ -1,43 +1,42 @@
 metric;value
 dataset;oasst2+ru_alpaca+SynEL
-model;ikkiren/TokenSubstitution
-rouge-1 recall;0.11518271754492228
-rouge-1 precision;0.1400993883792049
-rouge-1 F1;0.12604250416928417
-rouge-2 recall;0.042194092827004225
-rouge-2 precision;0.03898635477582846
-rouge-2 F1;0.04052684737342296
-rouge-l recall;0.11255804562891178
-rouge-l precision;0.13704128440366972
-rouge-l F1;0.12321764541222203
-BLEURT;-0.07533196111520131
-errors number pred;1.6666666666666667
-errors number ref;0
-error relation pred;0.9624744814775996
+model;meta-llama/Meta-Llama-3-8B-Instruct
+rouge-1 recall;0.08974358974358974
+rouge-1 precision;0.023333333333333334
+rouge-1 f1;0.03703703594524233
+rouge-2 recall;0.020202020202020204
+rouge-2 precision;0.005249343832020997
+rouge-2 f1;0.008333332241927227
+rouge-l recall;0.08974358974358974
+rouge-l precision;0.023333333333333334
+rouge-l f1;0.03703703594524233
+BLEURT;nan
+errors number pred;0.0
+errors number ref;0.0
+error relation pred;1.0
 error relation ref;1.0
-BERTScore precision;0.5536240935325623
-BERTScore recall;0.6011908054351807
-BERTScore F1;0.5747910141944885
-F1 token-wise;0.08635853710299211
-F1 token-wise new;0.08635853710299211
-tokens per text mean;882.6666666666666
-tokens per text mean new;882.6666666666666
-tokens per text quantile 25;847.0
-tokens per text quantile 25 new;847.0
-tokens per text quantile 50;896.0
-tokens per text quantile 50 new;896.0
-tokens per text quantile 75;925.0
-tokens per text quantile 75 new;925.0
-tokens per symbol;0.26487373220182125
-tokens per symbol new;0.26487373220182125
-tokens per word;1.5771347728886091
-tokens per word new;1.5771347728886091
-out of vocabulary words percent ref;0.26976744186046514
-out of vocabulary words percent pred;0.28715814506539833
-vocabulary intersection;1.0
-average root preservation;0.0
-average root preservation new;0.0
-mean fertility;1.2449014487183967
-mean fertility new;1.2449014487183967
-mean perplexity;2.556239446004232
-mean perplexity new;2.556239446004232
+BERTScore precision;0.6416212916374207
+BERTScore recall;0.6416212916374207
+BERTScore F1;0.6732566356658936
+F1 token-wise;0.08038180082723512
+F1 token-wise new;
+tokens per text mean;242.66666666666666
+tokens per text mean new;
+tokens per text quantile 25;144.0
+tokens per text quantile 25 new;
+tokens per text quantile 50;272.0
+tokens per text quantile 50 new;
+tokens per text quantile 75;356.0
+tokens per text quantile 75 new;
+tokens per symbol;0.29310958555809813
+tokens per symbol new;
+tokens per word;1.7858309990662933
+tokens per word new;
+out of vocabulary words percent ref;1.0
+out of vocabulary words percent pred;1.0
+vocabulary intersection;
+average root preservation;0.4746450304259635
+mean fertility;1.4538421219704858
+mean fertility new;
+mean perplexity;9.340479930241903
+mean perplexity new;

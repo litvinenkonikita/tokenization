@@ -1,43 +1,42 @@
 metric;value
 dataset;SberQuAD
-model;ikkiren/TokenSubstitution
+model;meta-llama/Meta-Llama-3-8B-Instruct
 rouge-1 recall;0.0
 rouge-1 precision;0.0
-rouge-1 F1;0.0
+rouge-1 f1;0.0
 rouge-2 recall;0.0
 rouge-2 precision;0.0
-rouge-2 F1;0.0
+rouge-2 f1;0.0
 rouge-l recall;0.0
 rouge-l precision;0.0
-rouge-l F1;0.0
-BLEURT;0.2382318526506424
-errors number pred;1
-errors number ref;0
-error relation pred;0.9961685823754789
+rouge-l f1;0.0
+BLEURT;nan
+errors number pred;0.0
+errors number ref;0.0
+error relation pred;1.0
 error relation ref;1.0
-BERTScore precision;0.22969600558280945
-BERTScore recall;0.6409364938735962
-BERTScore F1;0.3381921648979187
-F1 token-wise;0
-F1 token-wise new;0
-tokens per text mean;644.0
-tokens per text mean new;644.0
-tokens per text quantile 25;644.0
-tokens per text quantile 25 new;644.0
-tokens per text quantile 50;644.0
-tokens per text quantile 50 new;644.0
-tokens per text quantile 75;644.0
-tokens per text quantile 75 new;644.0
-tokens per symbol;0.1933933933933934
-tokens per symbol new;0.1933933933933934
-tokens per word;2.476923076923077
-tokens per word new;2.476923076923077
+BERTScore precision;0.5199757814407349
+BERTScore recall;0.5199757814407349
+BERTScore F1;0.5922045111656189
+F1 token-wise;0.0
+F1 token-wise new;
+tokens per text mean;76.0
+tokens per text mean new;
+tokens per text quantile 25;76.0
+tokens per text quantile 25 new;
+tokens per text quantile 50;76.0
+tokens per text quantile 50 new;
+tokens per text quantile 75;76.0
+tokens per text quantile 75 new;
+tokens per symbol;0.20485175202156333
+tokens per symbol new;
+tokens per word;1.2881355932203389
+tokens per word new;
 out of vocabulary words percent ref;1.0
-out of vocabulary words percent pred;0.007692307692307693
-vocabulary intersection;1.0
-average root preservation;0.0
-average root preservation new;0.0
-mean fertility;2.467432950191571
-mean fertility new;2.467432950191571
-mean perplexity;4.391205787658691
-mean perplexity new;4.391205787658691
+out of vocabulary words percent pred;1.0
+vocabulary intersection;
+average root preservation;0.6271186440677966
+mean fertility;1.1692307692307693
+mean fertility new;
+mean perplexity;7.546148777008057
+mean perplexity new;
