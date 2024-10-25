@@ -1,43 +1,43 @@
 metric;value
 dataset;oasst2+ru_alpaca+SynEL
 model;AnatoliiPotapov/T-lite-instruct-0.1
-rouge-1 recall;0.14829514782719297
-rouge-1 precision;0.039574014909478164
-rouge-1 F1;0.054729081407878556
-rouge-2 recall;0.005898152786247166
-rouge-2 precision;0.001910569105691057
-rouge-2 F1;0.0025631907353701557
-rouge-l recall;0.14595008648448243
-rouge-l precision;0.03857294994675186
-rouge-l F1;0.05339615468044492
-BLEURT;-0.08608198092939953
-errors number pred;2
-errors number ref;0.77
-error relation pred;0.9874411302982732
-error relation ref;0.9831692565847531
-BERTScore precision;0.5768066644668579
-BERTScore recall;0.6214524507522583
-BERTScore F1;0.5966160893440247
-F1 token-wise;0.13073590755340211
-F1 token-wise new;0.10125077256779524
-tokens per text mean;1021.0
-tokens per text mean new;909.0
-tokens per text quantile 25;1021.0
-tokens per text quantile 25 new;909.0
-tokens per text quantile 50;1021.0
-tokens per text quantile 50 new;909.0
-tokens per text quantile 75;1021.0
-tokens per text quantile 75 new;909.0
-tokens per symbol;0.305505685218432
-tokens per symbol new;0.2719928186714542
-tokens per word;2.6045918367346945
-tokens per word new;2.318877551020408
+rouge-1 recall;0.27752155585466676
+rouge-1 precision;0.16160936474291973
+rouge-1 F1;0.18784161898454474
+rouge-2 recall;0.11517347825923789
+rouge-2 precision;0.08657960838788138
+rouge-2 F1;0.08865678315389183
+rouge-l recall;0.2717600717230001
+rouge-l precision;0.15837509799113733
+rouge-l F1;0.18376909687839818
+BLEURT;-0.044130257641275726
+errors number pred;1
+errors number ref;0.2222222222222222
+error relation pred;0.9923819868268229
+error relation ref;0.9865147198480532
+BERTScore precision;0.6654583215713501
+BERTScore recall;0.716823160648346
+BERTScore F1;0.6884894371032715
+F1 token-wise;0.2898801276429915
+F1 token-wise new;0.24425515901244618
+tokens per text mean;526.5555555555555
+tokens per text mean new;442.1111111111111
+tokens per text quantile 25;80.0
+tokens per text quantile 25 new;68.0
+tokens per text quantile 50;516.0
+tokens per text quantile 50 new;505.0
+tokens per text quantile 75;1024.0
+tokens per text quantile 75 new;833.0
+tokens per symbol;0.3364766698531098
+tokens per symbol new;0.2718752278360416
+tokens per word;2.1958526950859967
+tokens per word new;1.7935198367678684
 out of vocabulary words percent ref;1.0
 out of vocabulary words percent pred;1.0
 vocabulary intersection;0.9001996007984032
-average root preservation;0.02295918367346939
-average root preservation new;0.02295918367346939
-mean fertility;1.7975352112676057
-mean fertility new;1.6003521126760563
-mean perplexity;2.2323720455169678
-mean perplexity new;137.28257751464844
+average root preservation;0.05812897366030881
+average root preservation new;0.05858310626702997
+mean fertility;1.6782705225399694
+mean fertility new;1.3674522036222878
+mean perplexity;8.931880818472969
+mean perplexity new;18647.28451453315
