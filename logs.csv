@@ -23,3 +23,5 @@ Date, time;dataset;model;rouge-1 recall;rouge-1 precision;rouge-1 F1;rouge-2 rec
 30.10.2024 17:13:41;oasst2+ru_alpaca+SynEL;meta-llama/Meta-Llama-3-8B-Instruct;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;0.25375404437383015
 30.10.2024 18:13:11;SberQuAD;meta-llama/Meta-Llama-3-8B-Instruct;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;0.6391731469379331
 30.10.2024 18:13:11;oasst2+ru_alpaca+SynEL;meta-llama/Meta-Llama-3-8B-Instruct;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;0.2543862247467041
+30.10.2024 22:31:12;SberQuAD;meta-llama/Meta-Llama-3-8B-Instruct;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;0.638475570108703
+30.10.2024 22:31:12;oasst2+ru_alpaca+SynEL;meta-llama/Meta-Llama-3-8B-Instruct;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;0.25427974144617715
