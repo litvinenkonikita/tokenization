@@ -31,3 +31,5 @@ Date, time;dataset;model;rouge-1 recall;rouge-1 precision;rouge-1 F1;rouge-2 rec
 31.10.2024 13:21:41;oasst2+ru_alpaca+SynEL;ikkiren/TokenSubstitution;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;0.23641014814376832
 31.10.2024 16:31:12;SberQuAD;ikkiren/TokenSubstitution;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;0.5585785232147022
 31.10.2024 16:31:12;oasst2+ru_alpaca+SynEL;ikkiren/TokenSubstitution;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;0.23585811932881673
+31.10.2024 17:27:22;SberQuAD;ikkiren/TokenSubstitution;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;0.5598635323185879
+31.10.2024 17:27:22;oasst2+ru_alpaca+SynEL;ikkiren/TokenSubstitution;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;0.23644255638122558
