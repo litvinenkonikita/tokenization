@@ -1,43 +1,4 @@
 metric;value
 dataset;oasst2+ru_alpaca+SynEL
-model;meta-llama/Meta-Llama-3-8B-Instruct
-rouge-1 recall;0.1700859495709841
-rouge-1 precision;0.1224454221086158
-rouge-1 F1;0.12993109818708137
-rouge-2 recall;0.077137865220924
-rouge-2 precision;0.05367766747751939
-rouge-2 F1;0.0563979678519419
-rouge-l recall;0.16278670962034444
-rouge-l precision;0.11603658471860474
-rouge-l F1;0.12382570611342872
-BLEURT;-0.3312273703608662
-errors number pred;1.0566666666666666
-errors number ref;1.7366666666666666
-error relation pred;0.9910858903207145
-error relation ref;0.9831692565847531
-BERTScore precision;0.6728487014770508
-BERTScore recall;0.6922823190689087
-BERTScore F1;0.6813341379165649
-F1 token-wise;0.22039822798666175
-F1 token-wise new;0.20361091541689283
-tokens per text mean;398.2
-tokens per text mean new;385.04
-tokens per text quantile 25;61.5
-tokens per text quantile 25 new;55.75
-tokens per text quantile 50;475.0
-tokens per text quantile 50 new;439.0
-tokens per text quantile 75;633.5
-tokens per text quantile 75 new;631.75
-tokens per symbol;0.279556625188705
-tokens per symbol new;0.25796280280084877
-tokens per word;1.93727169097436
-tokens per word new;1.78165520097534
-out of vocabulary words percent ref;1.0
-out of vocabulary words percent pred;1.0
-vocabulary intersection;0.9001996007984032
-average root preservation;0.5403696773827749
-average root preservation new;0.5403696773827749
-mean fertility;1.4099575837569414
-mean fertility new;1.292828405643986
-TGT;26.82888603925705
-TPOT;0.06762068262190633
+model;ikkiren/llama-no-lm-head
+TTFT;0.23585783322652182
