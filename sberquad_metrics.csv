@@ -1,4 +1,4 @@
 metric;value
 dataset;SberQuAD
 model;ikkiren/llama-no-lm-head
-TTFT;0.5557445441568721
+TTFT;0.5496721197632781
