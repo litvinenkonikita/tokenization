@@ -1,4 +1,4 @@
 metric;value
 dataset;oasst2+ru_alpaca+SynEL
 model;ikkiren/llama-no-lm-head
-TTFT;0.23540688832600912
+TTFT;0.2357273268699646
