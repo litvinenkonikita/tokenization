@@ -55,3 +55,5 @@ Date, time;dataset;model;rouge-1 recall;rouge-1 precision;rouge-1 F1;rouge-2 rec
 19.11.2024 18:50:05;oasst2+ru_alpaca+SynEL;ikkiren/llama-no-lm-head;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;0.23585783322652182
 19.11.2024 19:52:50;SberQuAD;meta-llama/Meta-Llama-3-8B-Instruct;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;0.6267078927436265
 19.11.2024 19:52:50;oasst2+ru_alpaca+SynEL;meta-llama/Meta-Llama-3-8B-Instruct;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;0.25377185265223184
+20.11.2024 09:22:09;SberQuAD;ikkiren/llama-no-lm-head;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;0.5557445441568721
+20.11.2024 09:22:09;oasst2+ru_alpaca+SynEL;ikkiren/llama-no-lm-head;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;0.23588150103886923
