@@ -1,43 +1,43 @@
 metric;value
 dataset;oasst2+ru_alpaca+SynEL
-model;ikkiren/llama-no-lm-head
-rouge-1 recall;0.18930401746251435
-rouge-1 precision;0.22591889896148348
-rouge-1 F1;0.17235356578596073
-rouge-2 recall;0.06739273375127128
-rouge-2 precision;0.06464635713761442
-rouge-2 F1;0.054701561516648484
-rouge-l recall;0.18450738387200263
-rouge-l precision;0.2201843938403783
-rouge-l F1;0.16780427941761972
-BLEURT;-0.015244465259214243
-errors number pred;25.733333333333334
-errors number ref;1.7366666666666666
-error relation pred;0.9466428860200105
-error relation ref;0.9831692565847531
-BERTScore precision;0.6170414090156555
-BERTScore recall;0.654066264629364
-BERTScore F1;0.6315044164657593
-F1 token-wise;0.15210706412538905
-F1 token-wise new;0.15210706412538905
-tokens per text mean;757.1
-tokens per text mean new;757.1
-tokens per text quantile 25;626.5
-tokens per text quantile 25 new;626.5
-tokens per text quantile 50;917.0
-tokens per text quantile 50 new;917.0
-tokens per text quantile 75;959.25
-tokens per text quantile 75 new;959.25
-tokens per symbol;0.30310954694622316
-tokens per symbol new;0.30310954694622316
-tokens per word;2.5512188522115506
-tokens per word new;2.5512188522115506
-out of vocabulary words percent ref;1.0
-out of vocabulary words percent pred;1.0
+model;datapaf/llama3_8b_hn_rus_continued_instruct
+rouge-1 recall;0.28275789907365506
+rouge-1 precision;0.15891626736045697
+rouge-1 F1;0.1521536534676922
+rouge-2 recall;0.11263099354303259
+rouge-2 precision;0.047085361808872
+rouge-2 F1;0.04384229608801487
+rouge-l recall;0.2767353374052411
+rouge-l precision;0.1546677764723741
+rouge-l F1;0.14813730570518485
+BLEURT;-0.055399944909537834
+errors number pred;2.4433333333333334
+errors number ref;1.3366666666666667
+error relation pred;0.9966930570943995
+error relation ref;0.9872073364119894
+BERTScore precision;0.616942822933197
+BERTScore recall;0.689247727394104
+BERTScore F1;0.6461519002914429
+F1 token-wise;0.12777658461067667
+F1 token-wise new;0.12777658461067667
+tokens per text mean;1006.2633333333333
+tokens per text mean new;1006.2633333333333
+tokens per text quantile 25;1001.0
+tokens per text quantile 25 new;1001.0
+tokens per text quantile 50;1012.0
+tokens per text quantile 50 new;1012.0
+tokens per text quantile 75;1023.0
+tokens per text quantile 75 new;1023.0
+tokens per symbol;0.27463423751645905
+tokens per symbol new;0.27463423751645905
+tokens per word;1.8992814970418725
+tokens per word new;1.8992814970418725
+out of vocabulary words percent ref;0.23735356762513313
+out of vocabulary words percent pred;0.23362499621544702
 vocabulary intersection;1.0
-average root preservation;0.04677873143630471
-average root preservation new;0.04677873143630471
-mean fertility;1.7396175149969177
-mean fertility new;1.7396175149969177
-TGT;56.914500363667806
-TPOT;0.0697377188578498
+average root preservation;0.009597626328378092
+average root preservation new;0.009597626328378092
+mean fertility;1.424878450733798
+mean fertility new;1.424878450733798
+TGT;30.995640726884208
+TPOT;0.030297332762428898
