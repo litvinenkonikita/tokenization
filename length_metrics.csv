@@ -1,4 +1,4 @@
 metric;value
 dataset;oasst2+ru_alpaca+SynEL
 model;meta-llama/Meta-Llama-3-8B-Instruct
-TTFT;0.06243408203125
+TTFT;0.06190551201502482
